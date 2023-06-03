@@ -113,6 +113,6 @@ Te recomiendo entrar a estos links
 
 
 
-## Authors
+## Autor
 
 - [@damarisblas](https://www.github.com/damarisblas)
