@@ -25,7 +25,8 @@ El usuario hablara y todo lo que este diga sera escuhado por el dispositivo Alex
 
 ## Pasos para crear una Skill de Alexa
 Todo esto es desde la web de Amazon-developer
-- Crear el nombre de invocacion.
+- Crear el nombre de invocacion  
+
 ![Foto3](https://i.postimg.cc/XYsFvTHD/paso1.png)
 - Añadir los Intents que sea necesario
 ![Foto4](https://i.postimg.cc/d0DCZ4gQ/paso2.png)
